@@ -1,2 +1,2 @@
-FROM percona-xtradb-cluster:latest
+FROM percona/percona-xtradb-cluster:latest
 MAINTAINER sqzr
